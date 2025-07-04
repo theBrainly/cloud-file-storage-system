@@ -1,0 +1,2 @@
+This is a test file to verify the upload functionality works correctly.
+The file should be uploaded successfully since it contains no malicious content.
